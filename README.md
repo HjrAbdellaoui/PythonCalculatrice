@@ -13,7 +13,7 @@ Tkinter version 8.6.<br />
 4- python calculator.py<br />
 
 # Usage
-1- the C button to clear the screen.\n<br />
+1- the C button to clear the screen.<br />
 2- Del Button to delete the last character.<br />
 
 # Author: ABDELLAOUI Hajar
